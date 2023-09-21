@@ -16,3 +16,21 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+nav img{
+    width: 200px;
+    height: 70px;
+    margin-top: 10px;
+}
+.search input{
+  margin-left:5px;
+}
+.btn-logout{
+    margin-left: 10px;
+    color: white;
+    background-color: orange;
+    
+   
+}
+.btn-logout:hover{
+    background-color: orangered;
+}
